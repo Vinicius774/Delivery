@@ -1,0 +1,245 @@
+body{background-color: rgb(255, 0, 0);
+margin: 0;
+height: 100vh;}
+
+#logo{
+height: 250px;
+background-color: rgb(151, 27, 27);
+display:flex ;}
+
+#logo2{max-width: 400px;}
+
+#inicio{
+    width: 100%;
+    text-align: center;
+    font-family: "Ingrid Darling", cursive;
+    font-size: 100px;
+}
+
+#informaçao{width:30vw ;
+    height:250px;
+    padding-top: 150px;
+    padding-left: 10px;
+    color: white;
+    font-size: 4em;
+    padding-bottom: 10px;
+}
+
+.ajuste{padding: 10px;
+    font-family: "Inter", sans-serif;
+line-height: 1;}
+
+.texto{display: flex;
+text-align: center;
+width: 90vw;
+height: 100px;}
+
+#informaçao2{color: white;
+padding-bottom: 10px;
+padding-top:80px;
+
+}
+
+#chocolate{padding-left: 20px;
+width: 30vw;
+text-align: center;}
+
+.pizza1{height: 600px;
+max-width: 500px;}
+
+#flex{
+    display: flex;
+    width: 90vw;
+}
+
+.ajuste2{padding: 10px;
+font-family: "Inter", sans-serif;
+font-size: 3em;
+text-align: center;
+color: white;
+}
+
+#pag2{background-color:#00A3FF;
+width: 100%;
+height: 41vh;
+text-align: center;
+}
+
+.quemsomos{font-family: "Inter", sans-serif;
+    font-size: 4em;
+}
+
+#lineheight {
+    line-height: 1;
+}
+
+#pag3{padding-left: 600px;}
+
+#barra{border-radius: 50px;
+    border: none;
+    width: 20vw;
+    height: 5vh;
+}
+
+#barra::placeholder { font-size: 20px;}
+
+#pesquisa{font-family: "Inter", sans-serif;
+color: rgb(146, 146, 136);
+}
+
+#ofertas{font-family: "Inter", sans-serif;
+font-size: 2em;
+}
+
+#menu{display: flex;}
+
+#especial{padding-left: 20px;
+    width: 40vw;
+    text-align: center;}
+
+.especial2{width: 80%;}
+
+#nomes{font-family: "Inter", sans-serif;
+font-size: 2em;
+padding-left: 200px;
+}
+
+#nomes2{font-family: "Inter", sans-serif;
+font-size: 2em;
+padding-left:  500px;
+}
+
+#numero{font-family: "Inter", sans-serif;
+font-size: 2em;
+padding-left: 300px;
+color: white;
+}
+
+#numero2{font-family: "Inter", sans-serif;
+font-size: 2em;
+padding-left: 600px;
+color: white;
+}
+
+#pag4{background-color:#55FD05;
+    width: 99.1vw;
+    height: 60vh;
+    text-align: center;
+    padding-top: 30px;
+    display: flex;
+}
+
+#contato{border: none;
+    width: 20vw;
+    height: 5vh;
+    font-family: "Inter", sans-serif;
+}
+#contato::placeholder{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+
+#contato2{border-radius: 50px;
+    border: none;
+    width: 29vw;
+    height: 35vh;
+    font-family: "Inter", sans-serif;
+}
+#contato2::placeholder{
+font-size: 20px;
+color: black;
+text-align: start;
+padding-left: 20px;
+}
+#contact{
+    padding: 40px;
+}
+
+#numerodacasa{
+font-family: "Inter", sans-serif;
+font-size: 22px;
+}
+
+#telefone{
+font-family: "Inter", sans-serif;
+font-size: 22px;
+}
+
+.wid33{
+    width: 33vw;
+}
+
+#canto{
+    padding-top: 15%;
+}
+
+#pag5{background-color:#B6DB67;
+    width: 100%;
+    height: 90vh;
+    text-align: center;
+}
+
+#cadastro{
+font-family: "Inter", sans-serif;
+font-size: 40px;
+}
+
+#cadastro2{
+font-family: "Inter", sans-serif;
+font-size: 20px;
+}
+
+#login{
+border-radius: 50px;
+border: none;
+width: 30vw;
+height: 5vh;
+}
+
+#login::placeholder{
+color: rgb(65, 65, 65);
+font-size: 20px;
+padding: 20px;
+font-family: "Inter", sans-serif;
+}
+
+.entrar1{
+padding: 25px;
+}
+
+#entrar{
+border-radius: 50px;
+border: none;
+width: 30vw;
+height: 5vh;
+font-size: 20px;
+font-family: "Inter", sans-serif;
+background-color: black;
+text-align: center;
+}
+
+#continue{
+font-size: 20px;
+font-family: "Inter", sans-serif;
+color: rgb(78, 78, 78);
+}
+
+#google{
+border-radius: 50px;
+border: none;
+width: 30vw;
+height: 5vh;
+text-align: center;
+font-size: 20px;
+}
+button{
+    width: 30vw;
+    border-radius: 50px;
+    border: none;
+    font-size: 22px;
+    font-family: "Inter", sans-serif;
+
+}
+
+.googlelogo{ float: left;}
